@@ -329,8 +329,8 @@ nav:hover {
 }
 
 .description {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url("/images/interior.jpg");
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/images/interior.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url("../images/interior.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/interior.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -432,7 +432,7 @@ nav:hover {
 .services-items .item {
   width: 25%;
   height: 400px;
-  background-image: url(/images/services3.png);
+  background-image: url(../images/services3.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
