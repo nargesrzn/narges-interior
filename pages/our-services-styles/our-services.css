@@ -281,7 +281,7 @@ nav:hover {
 .banner {
   width: 100%;
   height: 100vh;
-  background-image: url(/images/bg1.jpg);
+  background-image: url(../../images/bg1.jpg);
   color: #262626;
   background-repeat: no-repeat;
   background-size: cover;
@@ -364,7 +364,7 @@ nav:hover {
   width: 25%;
   height: 400px;
   margin-bottom: 8%;
-  background-image: url(/images/services3.png);
+  background-image: url(../../images/services3.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
