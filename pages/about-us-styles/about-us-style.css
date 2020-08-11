@@ -281,7 +281,7 @@ nav:hover {
 .banner {
   width: 100%;
   height: 100vh;
-  background-image: url(/images/bg1.jpg);
+  background-image: url(../../images/bg1.jpg);
   color: #262626;
   background-repeat: no-repeat;
   background-size: cover;
@@ -341,8 +341,8 @@ nav:hover {
 }
 
 .description {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/interior.jpg");
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/interior.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("../../images/interior.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/interior.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
