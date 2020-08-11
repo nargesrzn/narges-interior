@@ -250,7 +250,7 @@ nav:hover {
 //description
 .description {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("/images/interior.jpg");
+    url("../images/interior.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -324,7 +324,7 @@ nav:hover {
     .item {
       width: 25%;
       height: 400px;
-      background-image: url(/images/services3.png);
+      background-image: url(../images/services3.png);
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
